@@ -1,4 +1,8 @@
 first RTE exploration
 adding one line to the rte script
 
+<<<<<<< HEAD
 I too working on RTE
+=======
+PARTNER working on RTE
+>>>>>>> 77a1d4de3b4a8b812d21f0129cbd617d9fa1a77e
