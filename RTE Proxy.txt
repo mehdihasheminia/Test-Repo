@@ -1,1 +1,2 @@
 a proxy around an RTE feature
+I'm modifying the proxy
