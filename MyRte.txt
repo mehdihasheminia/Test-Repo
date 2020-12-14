@@ -1,2 +1,4 @@
 first RTE exploration
 adding one line to the rte script
+
+PARTNER working on RTE
